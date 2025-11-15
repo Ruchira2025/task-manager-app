@@ -76,9 +76,9 @@ Flutter UI ----> Parse SDK ----> Back4App Cloud Database
      |
      └── State Management (setState)
 
-📸 Screenshots (Replace with real images)
-Screen	Preview
-Login	
+📸 Google Drive link containing App Screenshots PPT and installation Document
+
+     # https://drive.google.com/drive/folders/1LGPX5E14DPv6uoVybVdd3xe67OS-LUAf?usp=sharing 
 
 Task List	
 
@@ -93,7 +93,7 @@ Validate installation:
 flutter doctor
 
 2️⃣ Clone the Repository
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Ruchira2025/task-manager.git
 cd task-manager
 
 3️⃣ Install Dependencies
@@ -111,8 +111,8 @@ App Settings → Security & Keys
 
 Replace in main.dart:
 
-const keyApplicationId = 'YOUR_APP_ID';
-const keyClientKey = 'YOUR_CLIENT_KEY';
+const keyApplicationId = 'TeQHbH1fww3wuT5XIpCOOyFfR3tI87vUDaxcL6Gh';
+const keyClientKey = '98iajmZpyNazuGOO6sNg3LQHlT5PRBWwniM3qktT';
 const keyParseServerUrl = 'https://parseapi.back4app.com/';
 
 5️⃣ Back4App Database Setup
@@ -155,6 +155,7 @@ User edits → task.save()
 Delete
 
 User deletes → task.delete()
+
 
 📌 Conclusion
 
